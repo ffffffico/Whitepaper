@@ -18,7 +18,7 @@
 #FFFFFFICO wants to build a strong community with loyal supporters who trust in our vision, review ICOs together, and will definitely join the lending program. We will build the community in both English and Vietnamese. We will also open 2 Youtube channels in English and Vietnamese to introduce brand new ICOs. 
 
 <h2>Repurchasing</h2>
-Every month, we will use 50% of our profits to buy back tokens and desktop them, all buy-back transactions will be announced on the blockchain. We will also buy back tokens to open contests for the community.
+Every month, we will use 50% of our profits to buy back tokens and desktop them, all buy-back transactions will be announced on the blockchain. We will also buy back tokens to open contests for the community. And ICOs that want to advertise on #FFFFFFICO will have to buy tokens to pay for sponsored listing fee.
 
 <h2>Lending Platform</h2>
 
