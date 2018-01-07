@@ -16,7 +16,7 @@
 </ul>
 
 <h3>Community (EN & VN)</h3>
-
+#FFFFFFICO wants to build a strong community with loyal supporters who trust in our vision, review ICOs together, and will definitely join the lending program. We will build the community in both English and Vietnamese. We will also open 2 Youtube channels in English and Vietnamese to introduce brand new ICOs. 
 
 <h3>Repurchasing</h3>
 
