@@ -5,10 +5,10 @@
 
 <strong>Abstract:</strong> This ICO is for #FFFFFFICO, it is also the pre-sale of a lending platform that will be created in next 3 months. <a target="_blank" href="https://www.ffffffico.com">www.ffffffico.com</a> provides in-depth reviews, analytics with rating, hyping, funding, roadmap, whitepaper, teams, dates, and whitelists for both normal & lending ICOs. <a target="_blank" href="https://www.fffffflend.com">www.fffffflend.com</a> is a lending platform that will be created in next 3 months by #FFFFFFICO. The token called "FICO", which is powered by the Ethereum blockchain (ERC20).
 
-<h3>Revenue</h3>
+<h3>Revenue Model</h3>
 #FFFFFFICO has generated revenue from first days. We earn coins from the affiliate program at brand new normal and lending ICOs. 
 
-<h3>Community</h3>
+<h3>Community (EN & VN)</h3>
 
 
 <h3>Repurchasing</h3>
