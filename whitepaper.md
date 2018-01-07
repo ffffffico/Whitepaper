@@ -21,7 +21,7 @@
 Every month, we will use 50% of our profits to buy back tokens and destroy them, all buy-back transactions will be announced on the blockchain. We will also buy back tokens to open contests for the community. 
 
 <h2>Lending Platform</h2>
-
+After the ICO ends, we will start building the lending platform and will release it within 3 months. FICO token holders will get free coins at our lending platform, 1 FICO get 1 coin. We will announce the lending ICO in next 3 months once we have the dashboard, desktop wallet, block explorer and a strong community. 
 
 <h2>Funds Usage</h2>
 
