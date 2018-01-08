@@ -19,7 +19,7 @@ We have generated revenue from first days, our revenue will come from the follow
 We want to build a big loyal community with smart investors who want to be a part of our team, believe in our vision, help us review ICOs, and will definitely join the lending program. We will build the community in both English and Vietnamese and will also open 2 Youtube channels to introduce brand new ICOs. Once our community grows:
 <ul>
   <li>We will make more money from the referral program at ICOs</li>
-  <li>More ICOs will buy sponsored listing</li>
+  <li>We will sell more sponsored listings, make more money</li>
   <li>We will have more chances to get bounty bonus our community</li>
   <li>We will get private sale deals for our community</li>
   <li>We will have interviews, AMA with brand new ICOs</li>
