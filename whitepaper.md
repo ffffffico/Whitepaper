@@ -21,7 +21,7 @@ We want to build a big loyal community with smart investors who want to be a par
   <li>We will make more money from the referral program at ICOs</li>
   <li>We will sell more sponsored listings, make more money</li>
   <li>We will have more chances to get bounty bonus our community</li>
-  <li>We will get private sale deals for our community</li>
+  <li>We will get private deals for our community</li>
   <li>We will have interviews, AMA with brand new ICOs</li>
   <li>We will get proofs (desktop wallet, block explorer, internal exchange) from lending ICOs to avoid scam projects</li>
   <li>We will get more loyal customers to join our lending platform</li>
