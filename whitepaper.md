@@ -26,4 +26,4 @@ After the ICO ends, we start building the lending platform and will release it w
 <h2>Funds Usage</h2>
 50% of the funds will be used to build the system, which includes team recruiting, training, and the development budget. 10% of funds will be used to build the community. 25% of funds will be used for branding, marketing, and 15% will be kept in reserve to cope with any emergency or unexpected situation that might come up.
 
-<h2>Token Sale</h2>
+<h2>Token Sale (Pre-sale)</h2>
