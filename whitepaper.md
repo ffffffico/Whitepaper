@@ -16,7 +16,15 @@ We have generated revenue from first days, our revenue will come from the follow
 
 <h2>Community (EN & VN)</h2>
 
-We want to build a big loyal community with smart investors who want to be a part of our team, believe in our vision, help us review ICOs, and will definitely join the lending program. We will build the community in both English and Vietnamese and will also open 2 Youtube channels to introduce brand new ICOs. Once our community grows, we can get interview, deals and proofs (desktop wallet, block explorer, internal exchange) from lending ICOs, this means we can do better research to avoid scam, shitty projects.
+We want to build a big loyal community with smart investors who want to be a part of our team, believe in our vision, help us review ICOs, and will definitely join the lending program. We will build the community in both English and Vietnamese and will also open 2 Youtube channels to introduce brand new ICOs. Once our community grows:
+<ul>
+  <li>We will make more money from the referral program at ICOs</li>
+  <li>More ICOs will buy sponsored listing</li>
+  <li>We will have more chances to get bounty bonus our community</li>
+  <li>We will get private sale deals for our community</li>
+  <li>We will have interviews, AMA with brand new ICOs</li>
+  <li>We will get proofs (desktop wallet, block explorer, internal exchange) from lending ICOs to avoid scam projects</li>
+</ul>
 
 <h2>Repurchasing</h2>
 
@@ -32,6 +40,7 @@ After the ICO ends, we start building the lending platform and will release it w
   <li>No hosting issue during the ICO</li>
   <li>Instant withdrawals</li>
   <li>Desktop wallet, block explorer</li>
+  <li>Android, ICO wallet</li>
   <li>Strong team for 24/7 customer support</li>
 </ul>
 
