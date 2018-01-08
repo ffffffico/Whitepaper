@@ -35,9 +35,10 @@ After the ICO ends, we start building the lending platform and will release it w
 To get a spot in the ICO, you must show us how you care about our project:
 
 <ul>
-  <li>Invite people to our Telegram</li>
-  <li>Write a blog post</li>
-  <li>Make a video</li>
+  <li>a. Invite people to our Telegram</li>
+  <li>b. Share on Facebook or Tweet about the ICO</li>
+  <li>c. Write a blog post</li>
+  <li>d. Make a video</li>
 </ul>
 Then let us know how you helped in this quick form. We will send an announced email if you get in the ICO before 3 days it starts. We love our growing community, show us the love.
 
