@@ -6,7 +6,7 @@
 
 <h2>Revenue Model</h2>
 
-#FFFFFFICO has generated revenue from first days, our revenue will come from the following sources: 
+We have generated revenue from first days, our revenue will come from the following sources: 
 
 <ul>
   <li>We will earn coins from the affiliate program when we introduce brand new ICOs.</li>
@@ -26,4 +26,7 @@ After the ICO ends, we start building the lending platform and will release it w
 <h2>Funds Usage</h2>
 50% of the funds will be used to build the system, which includes team recruiting, training, and the development budget. 10% of funds will be used to build the community. 25% of funds will be used for branding, marketing, and 15% will be kept in reserve to cope with any emergency or unexpected situation that might come up.
 
-<h2>Token Sale (Pre-sale)</h2>
+<h2>Whitelist</h2>
+To get a spot in the ICO, you have to invite people to our Telegram, write a blog post or make a video about us, then let us know how you helped in this quick form. We will send an announced email if you get in the ICO before 3 days it starts. We love our growing community, show us the love.
+
+<h2>Token Sale</h2>
