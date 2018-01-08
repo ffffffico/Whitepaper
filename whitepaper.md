@@ -21,7 +21,7 @@ We want to build a big loyal community with smart investors who want to be a par
 Every month, we will use 50% of our profits to buy back tokens and destroy them, all buy-back transactions will be announced on the blockchain. We will also buy back tokens to open contests for the community, and reward to some active members, members who help us review ICOs.
 
 <h2>Lending Platform</h2>
-After the ICO ends, we will start building the lending platform and will release it within 3 months (maybe 2 months). FICO token holders will get free coins at our lending platform, 1 FICO get 1 coin. We will announce the lending ICO in next 3 months once we build the dashboard, desktop wallet, block explorer and a strong community. 
+After the ICO ends, we start building the lending platform and will release it within 3 months (maybe 2 months). FICO token holders will get free coins at our lending platform, 1 FICO get 1 coin. We hire top-notch developers to build the smoothest platform, no stupid crashing, amazing UI/UX, instant withdrawals and a strong team for 24/7 customer support. We will announce the lending ICO in next 3 months once we build the dashboard, desktop wallet, block explorer and a strong community.
 
 <h2>Funds Usage</h2>
 50% of the funds will be used to build the system, which includes team recruiting, training, and the development budget. 10% of funds will be used to build the community. 25% of funds will be used for branding, marketing, and 15% will be kept in reserve to cope with any emergency or unexpected situation that might come up.
