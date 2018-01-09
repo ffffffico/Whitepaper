@@ -1,4 +1,4 @@
-<h1>FFFFFFICO Whitepaper</h1>
+<h1>#FFFFFFICO Whitepaper</h1>
 
 <strong>January 07, 2018</strong>
 
