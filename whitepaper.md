@@ -74,7 +74,7 @@ Please let us know how you helped by filling out this quick form. All successful
   <li>25% sold in the ICO</li>
   <li>75% retained by FFFFFFICO, vested over 3 years (25% yearly)</li>
   <li>Beginning of ICO: January 25, 2018</li>
-  <li>Price per Token: 0.10 USD</li>
+  <li>Price per Token: 0.0010 USD</li>
   <li>Softcap: 1,500,000 USD</li>
   <li>Hardcap: 2,500,000 USD</li>
   <li>Any unsold tokens will be burned</li>
