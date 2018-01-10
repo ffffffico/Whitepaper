@@ -68,3 +68,16 @@ In order to secure a spot in the ICO, you must show how you care about our proje
 Please let us know how you helped by filling out this quick form. All successful applicants invited to participate in the ICO will receive a confirmation email 3 days prior to its start. We love our growing community, show us the love.
 
 <h2>Token Sale</h2>
+<ul>
+  <li>Ethereum ERC20 Token called FICO</li>
+  <li>10 Billion FFFFFFICO Tokens Issued (10,000,000,000 FICO)</li>
+  <li>25% sold in the ICO</li>
+  <li>75% retained by FFFFFFICO, vested over 3 years (25% yearly)</li>
+  <li>Beginning of ICO: January 25, 2018</li>
+  <li>Price per Token: 0.10 USD</li>
+  <li>Softcap: 1,500,000 USD</li>
+  <li>Hardcap: 2,500,000 USD</li>
+  <li>Any unsold tokens will be burned</li>
+</ul>
+
+Amounts will be calculated and expressed in ETH based on the ETH/USD exchange rate on the date the ICO starts. The ICO will be open for 30 days, or until the hard cap is reached. Tokens will be unlocked 3 days after the official end of ICO.
