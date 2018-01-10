@@ -73,7 +73,7 @@ Please let us know how you helped by filling out this quick form. All successful
   <li>1 Billion FICO tokens issued (1,000,000,000 FICO)</li>
   <li>25% will be sold in the ICO</li>
   <li>75% will be retained by the team, vested over 3 years (will be locked for 6 months, 25% yearly)</li>
-  <li>Beginning of ICO: January 25, 2018</li>
+  <li>Beginning of ICO: January 30, 2018</li>
   <li>Price per Token: 0.0100 USD</li>
   <li>Softcap: 1,500,000 USD</li>
   <li>Hardcap: 2,500,000 USD</li>
