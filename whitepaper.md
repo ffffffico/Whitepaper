@@ -1,8 +1,8 @@
-<h1>#FFFFFFICO Whitepaper</h1>
+<h1>FFFFFFICO Whitepaper</h1>
 
 <strong>January 07, 2018</strong>
 
-<strong>Abstract:</strong> This ICO is for <a target="_blank" href="https://www.ffffffico.com">#FFFFFFICO</a>, an independent review platform focused on providing in-depth reviews, analytics, ratings, promotional hype, funding, roadmap, whitepaper, team members, dates, and whitelists for standard & lending platform ICOs. This ICO will also encompass the pre-sale of our lending platform <a target="_blank" href="https://www.fffffflend.com">#FFFFFFLend</a> which will be created within the next 3 months. The token is called "FICO", and will be powered by the Ethereum Blockchain (ERC20).
+<strong>Abstract:</strong> This ICO is for <a target="_blank" href="https://www.ffffffico.com">FFFFFFICO.com</a>, an independent review platform focused on providing in-depth reviews, analytics, ratings, promotional hype, funding, roadmap, whitepaper, team members, dates, and whitelists for standard & lending platform ICOs. This ICO will also encompass the pre-sale of our lending platform <a target="_blank" href="https://www.fffffflend.com">FFFFFFLend.com</a> which will be created within the next 3 months. The token is called "FICO", and will be powered by the Ethereum Blockchain (ERC20).
 
 <h2>Revenue Model</h2>
 
@@ -82,7 +82,7 @@ Please let us know how you helped by filling out this quick form. All successful
 
 Amounts will be calculated and expressed in ETH based on the ETH/USD exchange rate on the date the ICO starts. The ICO will be open for 30 days, or until the hard cap is reached. Tokens will be unlocked 3 days after the official end of ICO.
 
-<h2>Contact #FFFFFFICO</h2>
+<h2>Contact FFFFFFICO</h2>
 
 <ul>
   <li>Email: <a target="_blank" href="mailto:email@ffffffico.com">email@ffffffico.com</a></li>
