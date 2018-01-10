@@ -70,9 +70,9 @@ Please let us know how you helped by filling out this quick form. All successful
 <h2>Token Sale</h2>
 <ul>
   <li>Ethereum ERC20 token called FICO</li>
-  <li>10 Billion FFFFFFICO tokens issued (10,000,000,000 FICO)</li>
-  <li>25% sold in the ICO</li>
-  <li>75% retained by FFFFFFICO, vested over 3 years (25% yearly)</li>
+  <li>10 Billion FICO tokens issued (10,000,000,000 FICO)</li>
+  <li>25% will be sold in the ICO</li>
+  <li>75% will be retained by the team, vested over 3 years (25% yearly)</li>
   <li>Beginning of ICO: January 25, 2018</li>
   <li>Price per Token: 0.0010 USD</li>
   <li>Softcap: 1,500,000 USD</li>
