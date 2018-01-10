@@ -16,7 +16,7 @@ We have generated revenue from first days, our revenue will come from the follow
 
 <h2>Community (EN & VN)</h2>
 
-We will build a large loyal community of knowledgeable high value investors who are motivated to contribute to our team, believe in our vision, aid in reviewing ICOs, and who will participate in the lending program. Our community will be multi-language, English along with Vietnamese. Two(2) Youtube channels will also be initiated to introduce new ICOs. Once our community base develops:
+We will build a large loyal community of knowledgeable high value investors who are motivated to contribute to our team, believe in our vision, aid in reviewing ICOs, and who will participate in the lending program. Our community will be multi-language, English along with Vietnamese. Two(2) Youtube channels will also be initiated to introduce new ICOs. Once our community base develops, we will be able to have the following benefits:
 
 <ul>
   <li>Enjoy increased revenue from ICO referral programs</li>
@@ -42,7 +42,7 @@ At the conclusion of the ICO, the lending platform will be initiated and will re
   <li>Stable hosting platform ensuring an effortless ICO</li>
   <li>Instant withdrawals</li>
   <li>Desktop wallet, block explorer</li>
-  <li>Android, ICO wallet</li>
+  <li>Android, IOS wallet</li>
   <li>Strong, skilled team dedicated to 24/7 customer support</li>
 </ul>
 
@@ -65,7 +65,8 @@ In order to secure a spot in the ICO, you must show how you care about our proje
   <li>c. Write a blog post</li>
   <li>d. Make and publish a video</li>
 </ul>
-Please let us know how you helped by filling out this quick form. All successful applicants invited to participate in the ICO will receive a confirmation email 3 days prior to its start. We love our growing community, show us the love.
+
+Please let us know how you helped by filling out <a target="_blank" href="https://ffffffico.typeform.com/to/E7RXxB">this quick form</a>. All successful applicants invited to participate in the ICO will receive a confirmation email 3 days prior to its start. We love our growing community, show us the love.
 
 <h2>Token Sale</h2>
 <ul>
@@ -75,8 +76,8 @@ Please let us know how you helped by filling out this quick form. All successful
   <li>75% will be retained by the team, vested over 3 years (will be locked for 6 months, 25% yearly)</li>
   <li>Beginning of ICO: January 30, 2018</li>
   <li>Price per token: 0.0100 USD</li>
-  <li>Softcap: 1,500,000 USD</li>
-  <li>Hardcap: 2,500,000 USD</li>
+  <li>Soft-cap: 1,500,000 USD</li>
+  <li>Hard-cap: 2,500,000 USD</li>
   <li>Any unsold tokens will be burned</li>
 </ul>
 
