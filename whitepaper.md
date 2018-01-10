@@ -10,8 +10,8 @@ We have generated revenue from first days, our revenue will come from the follow
 
 <ul>
   <li>Earning coins through affiliate programs by introducing newly released ICOs.</li>
-  <li>By selling sponsored listings for interesting high quality ICOs, while general listings will be free of charge.</li>
-  <li>We will collect bounty bonus and private deals on newly formed ICOs.</li>
+  <li>Selling sponsored listings for interesting high quality ICOs, while general listings will be free of charge.</li>
+  <li>Collecting bounty bonus and private deals on newly formed ICOs.</li>
 </ul>
 
 <h2>Community (EN & VN)</h2>
@@ -19,7 +19,7 @@ We have generated revenue from first days, our revenue will come from the follow
 We will build a large loyal community of knowledgeable high value investors who are motivated to contribute to our team, believe in our vision, aid in reviewing ICOs, and who will participate in the lending program. Our community will be multi-language, English along with Vietnamese. Two(2) Youtube channels will also be initiated to introduce new ICOs. Once our community base develops:
 
 <ul>
-  <li>Will enjoy increased revenue from ICO referral programs</li>
+  <li>Enjoy increased revenue from ICO referral programs</li>
   <li>Gain additional paid sponsored listings</li>
   <li>More opportunities for bounty bonus</li>
   <li>Obtain private deals for our community</li>
