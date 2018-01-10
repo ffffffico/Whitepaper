@@ -69,8 +69,8 @@ Please let us know how you helped by filling out this quick form. All successful
 
 <h2>Token Sale</h2>
 <ul>
-  <li>Ethereum ERC20 Token called FICO</li>
-  <li>10 Billion FFFFFFICO Tokens Issued (10,000,000,000 FICO)</li>
+  <li>Ethereum ERC20 token called FICO</li>
+  <li>10 Billion FFFFFFICO tokens issued (10,000,000,000 FICO)</li>
   <li>25% sold in the ICO</li>
   <li>75% retained by FFFFFFICO, vested over 3 years (25% yearly)</li>
   <li>Beginning of ICO: January 25, 2018</li>
