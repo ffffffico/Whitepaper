@@ -9,9 +9,9 @@
 We have generated revenue from first days, our revenue will come from the following sources: 
 
 <ul>
-  <li>Earning coins through affiliate programs by introducing newly released ICOs.</li>
-  <li>Selling sponsored listings for interesting high quality ICOs, while general listings will be free of charge.</li>
-  <li>Collecting bounty bonus and private deals on newly formed ICOs.</li>
+  <li>Earning coins through affiliate programs by introducing newly released ICOs</li>
+  <li>Selling sponsored listings for interesting high quality ICOs, while general listings will be free of charge</li>
+  <li>Collecting bounty bonus and private deals on newly formed ICOs</li>
 </ul>
 
 <h2>Community (EN & VN)</h2>
