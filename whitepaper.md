@@ -60,7 +60,7 @@ At the conclusion of the ICO, the lending platform will be initiated and will re
 In order to secure a spot in the ICO, you must show how you care about our project:
 
 <ul>
-  <li>a. Invite people to our Telegram group https://t.me/joinchat/FerGdA-agUOQ4qgNyMqgGw</li>
+  <li>a. Invite people to our Telegram group: https://t.me/joinchat/FerGdA-agUOQ4qgNyMqgGw</li>
   <li>b. Share on Facebook or tweet on Twitter about the ICO</li>
   <li>c. Write a blog post</li>
   <li>d. Make and publish a video</li>
