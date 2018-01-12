@@ -83,7 +83,7 @@ Please let us know how you helped by filling out <a target="_blank" href="https:
 
 Amounts will be calculated and expressed in ETH based on the ETH/USD exchange rate on the date the ICO starts. The ICO will be open for 30 days, or until the hard cap is reached. Tokens will be unlocked 3 days after the official end of ICO.
 
-<h2>Contact FFFFFFICO</h2>
+<h2>Contact #FFFFFFICO</h2>
 
 <ul>
   <li>Email: <a target="_blank" href="mailto:email@ffffffico.com">email@ffffffico.com</a></li>
