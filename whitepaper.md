@@ -62,7 +62,7 @@ In order to secure a spot in the ICO, you must show how you care about our proje
 <ol>
   <li>Join our Telegram: https://t.me/joinchat/FerGdA-agUOQ4qgNyMqgGw</li>
   <li>Invite people to our Telegram</li>
-  <li>Help us grow: Share the ICO with others to win 1 Macbook Pro, 1 Macbook Air and 1iPhone X: https://gleam.io/gQeIG/1-macbook-pro-1-macbook-air-and-1-iphone-x-the-ffffffico-community-program, which will end before the ICO. People who have the highest score will win the competition. Now, let’s share, tweet or send reference to your friends more and more to reach higher scores.</li>
+  <li>Help us grow: Share the ICO with others to win 1 Macbook Pro, 1 Macbook Air and 1iPhone X: https://gleam.io/gQeIG/1-macbook-pro-1-macbook-air-and-1-iphone-x-the-ffffffico-community-program, which will end before the ICO. People who have the highest score will win the competition. Now, let’s share, tweet or send reference to your friends more and more to reach higher scores.</li>
   <li>Let us know how you helped by filling out <a href="https://ffffffico.typeform.com/to/E7RXxB">this quick form</a>.</li>
 </ol>
 
