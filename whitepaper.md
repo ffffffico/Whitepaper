@@ -60,13 +60,13 @@ At the conclusion of the ICO, the lending platform will be initiated and will re
 In order to secure a spot in the ICO, you must show how you care about our project:
 
 <ul>
-  <li>a. Invite people to our Telegram group: https://t.me/joinchat/FerGdA-agUOQ4qgNyMqgGw</li>
-  <li>b. Share on Facebook or tweet on Twitter about the ICO</li>
-  <li>c. Write a blog post</li>
-  <li>d. Make and publish a video</li>
+  <li>1. Join our Telegram: https://t.me/joinchat/FerGdA-agUOQ4qgNyMqgGw</li>
+  <li>2. Invite people to our Telegram</li>
+  <li>3. Help us grow: Share the ICO with others to win 1 Macbook Pro, 1 Macbook Air and 1iPhone X: https://gleam.io/gQeIG/1-macbook-pro-1-macbook-air-and-1-iphone-x-the-ffffffico-community-program, which will end before the ICO.</li>
+  <li>4. Let us know how you helped by filling out <a href="https://ffffffico.typeform.com/to/E7RXxB">this quick form</a>.</li>
 </ul>
 
-Please let us know how you helped by filling out <a target="_blank" href="https://ffffffico.typeform.com/to/E7RXxB">this quick form</a>. All successful applicants invited to participate in the ICO will receive a confirmation email 3 days prior to its start. We love our growing community, show us the love.
+All successful applicants invited to participate in the ICO will receive a confirmation email 3 days prior to its start. We love our growing community, show us the love.
 
 <h2>Token Sale</h2>
 <ul>
